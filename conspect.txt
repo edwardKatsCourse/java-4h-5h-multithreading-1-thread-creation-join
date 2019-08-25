@@ -1,0 +1,50 @@
+800 MGHz
+1.1 GGHz
+2.0 GGHz
+3.6 GGHz
+4.5 GGHz
+
+5.0 GGHz
+6.0 GGHz
+
+Core 2 Duo
+
+i7 7890H ... 
+2.6 GGHz (4 core)
+----------------------------
+Program = process
+process has its own RAM
+
+Scheduler (OS)
+Core (4) -> Thread (8)
+
+* - first program
+% - second program 
+
+1 core
+***%%%**%%**%%%%******%%%%
+
+2 cores
+1. **********
+2. %%%%%%%%%%
+
+4 cores (Scheduler OS)
+1. ***##$$***
+2. **
+3. ***
+4. **
+
+
+1.0 GGHz -> 20 secs
+2.0 GGHz -> 10 secs
+
+~7 secs
+
+2.5 GGHz - 2.5 GGHz - 2.5 GGHz - 2.5 GGHz
+2.5 GGHz - 2.5 GGHz - 2.5 GGHz - 2.5 GGHz
+
+
+детерминирован - определен
+не детерминирован - не определен
+
+
